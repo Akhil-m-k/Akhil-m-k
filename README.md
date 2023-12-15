@@ -8,6 +8,10 @@
 - 💬 Ask me about **Js,Node.js,Express,Mongodb**
 
 - 📫 How to reach me **akhilmkrishnan2001@gmail.com**
+  
+-  🎓 B.tech ECE graduate.
+  
+- 👨‍💻 Open to connecting with fellow learners and mentors.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
