@@ -1,7 +1,7 @@
 ![logo](https://github.com/Akhil-m-k/Akhil-m-k/blob/main/AKHIL%20MK.png)
 <h1 align="center">Hi 👋, I'm Akhil mk</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right"  alt="coding" width="400" src="https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47c3gq9uh9imhsmupb9c7pq5sn563hnwu8328xhfyo&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-m-k&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-m-k" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
