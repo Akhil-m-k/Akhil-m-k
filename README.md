@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil mk</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
+<img align="right"  alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc3YTg0Y3YyY3h5MDZ1ZmgycGQzbmRrcHZoOTMwdG1mZHJ4ejF2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-m-k&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-m-k" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
